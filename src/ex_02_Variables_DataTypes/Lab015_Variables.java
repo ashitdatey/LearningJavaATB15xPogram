@@ -17,9 +17,5 @@ public class Lab015_Variables {
         age_pramod = 119;
         System.out.println(age_pramod);
 
-
-
-
-
     }
 }

@@ -2,7 +2,7 @@ package ex_02_Variables_DataTypes;
 
 public class Lab020_Interview_QnA2 {
     public static void main(String[] args) {
-        //int enum = 10;
+        //int enum = 10; this in small later 'e' not allowed
         int Enum = 10;
         System.out.println(Enum);
         int pramod$dutta = 90;
