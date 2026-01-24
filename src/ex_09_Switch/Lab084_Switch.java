@@ -1,7 +1,6 @@
 package ex_09_Switch;
 
 import java.util.Scanner;
-
 public class Lab084_Switch {
 
     // You need to take a user input and ask for the integer from 1 to 7.
@@ -58,12 +57,6 @@ public class Lab084_Switch {
         }
         System.out.println("End of program");
 
-
-
-
-
     }
-
-
 
 }

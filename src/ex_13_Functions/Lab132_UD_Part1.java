@@ -23,17 +23,20 @@ public class Lab132_UD_Part1 {
 
         //  4. With Parameters and With Return Type
         int sum = sum_of_two_numbers(3, 4);
-
+        System.out.println(sum);
     }
 
-    static int sum_of_two_numbers(int i, int i1) {
+    static int sum_of_two_numbers(int i, int i1)
+    {
         return i + i1;
     }
 
-    static void greet_with_details(String pramod, int i, int i1) {
+    static void greet_with_details(String pramod, int i, int i1)
+    {
     }
 
-    static String wop_wr_greet_2() {
+    static String wop_wr_greet_2()
+    {
         return "pramod";
     }
 

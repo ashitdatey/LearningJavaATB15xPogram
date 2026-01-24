@@ -13,12 +13,14 @@ public class Lab131_User_Defined_One {
         int sum = sum_two_numbers(a,b);
         System.out.println("Sum of the number os = "+sum);
 
+
     }
 
     static int sum_two_numbers(int x,int y){
         return x+y;
     }
-    static void sum_of_two_number(){
+    static void sum_of_two_number()
+    {
         System.out.println("Hi,there");
     }
 }

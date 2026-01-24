@@ -48,11 +48,13 @@ public class Lab134_Function_Arth {
         }
     }
 
-    static int sum(int a, int b) {
+    static int sum(int a, int b)
+    {
         return a + b;
     }
 
-    static int sub(int a, int b) {
+    static int sub(int a, int b)
+    {
         return a - b;
     }
 
@@ -63,11 +65,13 @@ public class Lab134_Function_Arth {
         return a / b;
     }
 
-    static int mul(int a, int b) {
+    static int mul(int a, int b)
+    {
         return a * b;
     }
 
-    static int mod(int a, int b) {
+    static int mod(int a, int b)
+    {
         return a % b;
     }
 
