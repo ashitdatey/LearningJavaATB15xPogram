@@ -18,9 +18,13 @@ public class Lab082_If_Else_Scanner {
         int age = scanner.nextInt();
         // double d = scanner.nextDouble();
         // float f = scanner.nextFloat();
+        // char Ch = scanner.next().charAt(age);
         System.out.println(age);
         if(age > 19){
             System.out.println("Hi");
+        }
+        else{
+            System.out.println("he is too young");
         }
 
     }

@@ -2,7 +2,7 @@ package ex_08_If_Condition;
 
 public class FindUpperLowerNumSpecialChar {
     public static void main(String[] args) {
-        String str = "SjH23#b&KfL*.?|";
+        String str = "SjH23#*y(hjKfL*.?|";
         int upper = 0, lower = 0, special = 0, number = 0;
         for(int i=0;i<str.length();i++)
         {
